@@ -63,3 +63,8 @@ a:hover {
         height: 0;
         font-size: 0;
       }
+
+img {
+	width: 150px; 
+	height: 200px;
+}      
